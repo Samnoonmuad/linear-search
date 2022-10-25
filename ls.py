@@ -16,6 +16,6 @@ if __name__ == "__main__":
     # Function call
     result = search(arr, N, x)
     if(result == -1):
-        print("Element is not present in array")
+        print("Eleent is not present in array")
     else:
-        print("Element is present at index", result)
+        print("Eleent is present at index", result)
